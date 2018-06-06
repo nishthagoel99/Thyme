@@ -1,2 +1,2 @@
 # Thyme
-A simple webpage on thyme.
+A restaurant based webpage serving island based cuisine.
